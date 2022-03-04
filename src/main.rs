@@ -3,7 +3,7 @@ use std::io;
 fn main() {
     loop {
         println!("1 Fahrenheit to Celsius");
-        println!("2 Foot to Meter");
+        println!("2 Foot to Metre");
         println!("3 Inch to Centimetre");
         println!("4 Cup to Millilitre");
         println!("5 Fluid Ounce to Millilitre");
